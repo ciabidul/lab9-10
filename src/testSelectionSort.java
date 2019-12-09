@@ -73,7 +73,7 @@ class testSelectionSort {
         	System.out.println(Sortedarr[i]);
         }       
     }
-    
+ /*   
     public void testMixed(){
         int[] arr = new int[5];
         arr[0] = 8;
@@ -132,5 +132,5 @@ class testSelectionSort {
         }     	
     }
 
-
+*/
 }
